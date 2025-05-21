@@ -1,0 +1,26 @@
+:root {
+  // Theme colors
+  --background: var(--dark-background);
+  --purple: var(--dark-purple);
+  --text: var(--dark-text);
+  --text-secondary: var(--dark-text-secondary);
+  --font-family: "Inter", sans-serif;
+
+  // Base colors
+  --light-background: #F8F5FF;
+  --light-purple: #9747FF;
+  --light-text: #13111C;
+  --light-text-secondary: rgba(19, 17, 28, 0.7);
+
+  --dark-background: #11071f;
+  --dark-purple: #7127BA;
+  --dark-text: #FFFFFF;
+  --dark-text-secondary: rgba(255, 255, 255, 0.7);
+}
+
+[data-theme="light"] {
+  --background: var(--light-background);
+  --purple: var(--light-purple);
+  --text: var(--light-text);
+  --text-secondary: var(--light-text-secondary);
+}
