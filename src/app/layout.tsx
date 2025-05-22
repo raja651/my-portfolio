@@ -13,7 +13,7 @@ export default function RootLayout({
       <body>
         <ThemeProvider>
           <Header />
-          <ThemeToggle />
+          {/* <ThemeToggle /> */}
           {children}
         </ThemeProvider>
       </body>
