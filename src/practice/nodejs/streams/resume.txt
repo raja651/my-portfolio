@@ -1,0 +1,17 @@
+John Doe
+Senior Software Engineer
+
+Professional Experience:
+- 5 years of experience in Node.js development
+- Expert in building scalable microservices
+- Strong knowledge of JavaScript and TypeScript
+
+Skills:
+- Node.js, Express, NestJS
+- MongoDB, PostgreSQL
+- Docker, Kubernetes
+- AWS, GCP
+
+Education:
+- Bachelor's in Computer Science
+- Multiple certifications in cloud technologies 

@@ -52,6 +52,19 @@ html, body {
     }
   }
 
+  .portfolio-summary-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 70%;
+    align-content: center;
+    align-items: center;
+    margin: auto;
+
+    > p {
+        font-size: 24px
+    }
+  }
+
   .portfolio-work-experience{
     display: flex;
     flex-direction: column;
@@ -60,7 +73,7 @@ html, body {
 
     > h2{
         float: left; 
-        font-size: 42px;
+        font-size: 32px;
         margin: 0;
         min-width: 70%;
     }
